@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :volley-plus-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/494ed6a05bd5dee776299615bf40fee6/transformed/jetified-volley-plus-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/494ed6a05bd5dee776299615bf40fee6/transformed/jetified-volley-plus-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
